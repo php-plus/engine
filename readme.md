@@ -23,7 +23,7 @@ arrive in PHP using runtime source code transformations.
 Enjoy a simple and powerful syntax that enables developers to build very complex applications far more quickly
 than before. Short closures, types, enumerations are just a few examples of what you get using **Plus**.
 
-## 🚀 Try Plus in 10 seconds
+## Try Plus in 10 seconds
 
 > Note: Plus is still work in progress and it's not out yet.
 
@@ -54,7 +54,7 @@ class User {
 }
 ```
 
-## 💖 Support the development
+## Support the development
 **Do you like this project? Support it by donating**
 
 - PayPal: [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=66BYDWAT92N6L)
