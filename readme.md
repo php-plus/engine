@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/php-plus/engine/master/art/logo.gif" width="334" alt="PHP Insights">
-  <img src="https://raw.githubusercontent.com/php-plus/engine/master/art/preview.png" width="882" alt="PHP Insights Preview">
+  <img src="https://raw.githubusercontent.com/php-plus/art/master/logo.png" width="334" alt="Plus">
   <p align="center">
     <a href="https://travis-ci.org/php-plus/engine"><img src="https://img.shields.io/travis/php-plus/engine/master.svg" alt="Build Status"></a>
     <a href="https://packagist.org/packages/php-plus/engine"><img src="https://poser.pugx.org/php-plus/engine/d/total.svg" alt="Total Downloads"></a>
@@ -29,11 +28,13 @@ than before. Short closures, types, enumerations are just a few examples of what
 > Note: Plus is still work in progress and it's not out yet.
 
 - First, install:
+
 ```
 composer require php-plus/engine
 ```
 
 - Then, in your editor, add the following declare:
+
 ```php
 <?php
 
